@@ -1,0 +1,9 @@
+.newproject_cont {
+    width: 450px;
+    margin: 0 auto;
+    padding: 3em;
+}
+
+.newproject_cont h1 {
+    color: #ffbb33;
+}
